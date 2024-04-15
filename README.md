@@ -8,7 +8,7 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 - [Installation](#installation)
 
 ### Demo
-[abhn.github.io/portfolio](https://abhn.github.io/portfolio)
+[kwon-myeongeun.github.io/portfolio](https://kwon-myeongeun.github.io/portfolio)
 
 ### Screenshots
 ![homepage](tmp/screenshot.jpg?raw=true "Homepage")

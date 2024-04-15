@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Kwon MyeongEun
+description: Android Engineer
+site_title: 'Kwon MyeongEun'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: Kwon
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: Kwon
+twitter_username: Kwon
+reddit_username: Kwon
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/pp.png
 
 # Google Analytics ID
 google_analytics: 

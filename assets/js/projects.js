@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://github.com/kwon-myeongeun/Mporter',
             title: 'Mporter',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
@@ -21,7 +21,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
+            link: 'https://github.com/kwon-myeongeun/Wall-E',
             title: 'Wall-E',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
+            link: 'https://github.com/kwon-myeongeun/Marvel',
             title: 'Marvel',
             demo: false,
             technologies: ['Android', 'OpenCV'],
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
+            link: 'https://github.com/kwon-myeongeun/mpw',
             title: 'Master Password',
             demo: 'https://www.nagekar.com/mpw',
             technologies: ['Semantic UI', 'CSS3'],
@@ -48,7 +48,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
+            link: 'https://github.com/kwon-myeongeun/Social-Share-Counts',
             title: 'Social Share Count',
             demo: false,
             technologies: ['Python'],
@@ -57,7 +57,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
+            link: 'https://github.com/kwon-myeongeun/data-destroyer-gui',
             title: 'Data Destroyer',
             demo: false,
             technologies: ['C++', 'Qt'],
@@ -66,7 +66,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/raspberry-pi-monitor.png',
-            link: 'https://github.com/abhn/RPi-Status-Monitor',
+            link: 'https://github.com/kwon-myeongeun/RPi-Status-Monitor',
             title: 'Raspberry Pi Monitor',
             demo: false,
             technologies: ['python', 'flask'],
@@ -75,7 +75,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/s3scan.png',
-            link: 'https://github.com/abhn/S3Scan',
+            link: 'https://github.com/kwon-myeongeun/S3Scan',
             title: 'S3Scan',
             demo: false,
             technologies: ['python'],
@@ -84,7 +84,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/elementary.png',
-            link: 'https://github.com/abhn/Elementary',
+            link: 'https://github.com/kwon-myeongeun/Elementary',
             title: 'Elementary',
             demo: 'https://elementary-jekyll.github.io/',
             technologies: ['Jekyll', 'CSS3'],
@@ -93,7 +93,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/soot-spirits.png',
-            link: 'https://github.com/abhn/Soot-Spirits',
+            link: 'https://github.com/kwon-myeongeun/Soot-Spirits',
             title: 'Soot Spirits',
             demo: 'https://sootspirits.github.io',
             technologies: ['Jekyll', 'CSS3'],
@@ -147,7 +147,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/koalamate.png',
-            link: 'https://github.com/abhn/koalamate',
+            link: 'https://github.com/kwon-myeongeun/koalamate',
             title: 'Koalamate',
             demo: false,
             technologies: ['Electron', 'Javascript'],
